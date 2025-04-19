@@ -8,7 +8,7 @@
 }
 
 .banner {
-    background-image: url(".About_bg.png");
+    background-image: url("./About_bg.png");
     padding: 250px 0;
     background-size: cover;
     background-repeat: no-repeat;
