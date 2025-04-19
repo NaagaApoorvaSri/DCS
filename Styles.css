@@ -8,7 +8,7 @@
 }
 
 .banner {
-    background-image: url("/DCS project/images/About_bg.png");
+    background-image: url("./DCS project/images/About_bg.png");
     padding: 250px 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -48,7 +48,7 @@
 }
 
 .first {
-    background-image: url("/DCS project/images/img_01.png");
+    background-image: url("./DCS project/images/img_01.png");
 }
 
 .s {
